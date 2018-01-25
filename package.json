@@ -1,0 +1,22 @@
+{
+  "name": "style-retriever",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdahoo/style-retriever.git"
+  },
+  "author": "wangdahoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangdahoo/style-retriever/issues"
+  },
+  "homepage": "https://github.com/wangdahoo/style-retriever#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
